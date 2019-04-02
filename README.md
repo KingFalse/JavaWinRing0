@@ -10,6 +10,7 @@
 
 启动如果报错`java.lang.UnsatisfiedLinkError: Unable to load library 'WinRing0x64':`请将lib目录下的四个文件拷贝到jdk或者jre的bin目录下！！！
 # RedAlert
+* Java8
 * 请使用Administrator管理员账号启动程序
 * 建议在虚拟机中使用/调试，反正生产环境也是云端虚拟机。我自己开发是win7阿里云部署是server 2012 R2
 * 云端生产环境部署时建议将操作系统换成英语，避免一些输入法之类的问题

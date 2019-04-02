@@ -12,3 +12,8 @@
 # RedAlert
 * 请使用Administrator管理员账号启动程序
 * 建议在虚拟机中使用/调试，反正生产环境也是云端虚拟机。我自己开发是win7阿里云部署是server 2012 R2
+* 云端生产环境部署时建议将操作系统换成英语，避免一些输入法之类的问题
+# 简单使用
+* mvn package
+* java -jar JavaWinRing0.jar
+* http://127.0.0.1:8080/press?keys=kagura
